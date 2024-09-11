@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "536476584546",
+    "firebase_url": "https://projetodocumentos-d8cfe-default-rtdb.firebaseio.com",
+    "project_id": "projetodocumentos-d8cfe",
+    "storage_bucket": "projetodocumentos-d8cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536476584546:android:4c21776743afcb29075f3b",
+        "android_client_info": {
+          "package_name": "com.example.projeto3bim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lWZODzAWh0b4-mmKJ0BJzvjobOUIFqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
